@@ -41,12 +41,3 @@ def cluster_headlines(headlines, model_name='all-MiniLM-L6-v2', eps=0.5, min_sam
 
     return clusters
 
-headlines = get_headlines_past_week("headlines.csv")
-
-clusters = cluster_headlines(headlines)
-
-for cluster, related_headlines in clusters.items():
-    if cluster != -1:  # -1 is the noise label in DBSCAN
-        print(f"Cluster {cluster}:")
-        for headline in related_headlines:
-            print(f"  - {headline}")

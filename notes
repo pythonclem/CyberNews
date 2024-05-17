@@ -1,0 +1,397 @@
+First try:
+
+Cluster 0:
+  - (Cyber) Risk = Probability of Occurrence x Damage
+  - Civil society under increasing threats from ‘malicious’ state cyber actors, US warns
+  - NCSC Expands Election Cybersecurity to Safeguard Candidates and Officials
+  - Current Market Forces Disincentivizing Cybersecurity, Says NCSC CTO
+  - CISA and Partners Unveil Cybersecurity Guide For Civil Society Groups
+  - Top 5 Most Dangerous Cyber Threats in 2024
+  - Australian federal budget outlines investment in cybersecurity
+  - Low-tech tactics still top the IT security risk chart
+  - SugarGh0st RAT Variant Used in Targeted AI Industry Attacks
+  - Addressing the Cybersecurity Vendor Ecosystem Disconnect
+  - US AI Experts Targeted in SugarGh0st RAT Campaign
+  - Cyber resilience: A business imperative CISOs must get right
+  - US AI experts targeted in cyberespionage campaign using SugarGh0st RAT
+  - How you may be affected by the new proposed Critical Infrastructure Cyber Incident Reporting Rule
+Cluster 1:
+  - Ebury Botnet Malware Compromises 400,000 Linux Servers Over Past 14 Years
+  - 400,000 Linux Servers Hit by Ebury Botnet
+  - Ebury Botnet Operators Diversify with Financial and Crypto Theft
+Cluster 2:
+  - Microsoft Patches 61 Flaws, Including Two Actively Exploited Zero-Days
+  - VMware Patches Severe Security Flaws in Workstation and Fusion Products
+  - New Chrome Zero-Day Vulnerability CVE-2024-4761 Under Active Exploitation
+  - Microsoft Warns of Active Zero-Day Exploitation, Patches 60 Windows Vulnerabilities
+  - Microsoft Fixes Three Zero-Days in May Patch Tuesday
+  - Microsoft Windows DWM Zero-Day Poised for Mass Exploit
+  - Dangerous Google Chrome Zero-Day Allows Sandbox Escape
+  - Google Patches Yet Another Actively Exploited Chrome Zero-Day Vulnerability
+  - Third Chrome Zero-Day Patched by Google Within One Week
+  - Patch Now: Another Google Zero-Day Under Exploit in the Wild
+  - Microsoft fixes three zero-day vulnerabilities, two actively exploited
+Cluster 3:
+  - Black Basta Ransomware Strikes 500+ Entities Across North America, Europe, and Australia
+  - Singing River ransomware attack now thought to have affected over 895,000
+  - FBI warns Black Basta ransomware impacted over 500 organizations worldwide
+  - Cybercriminals Exploiting Microsoft’s Quick Assist Feature in Ransomware Attacks
+  - Personal Information Stolen in City of Wichita Ransomware Attack
+  - Windows Quick Assist Exploited in Ransomware Attacks
+  - Windows Quick Assist Anchors Black Basta Ransomware Gambit
+Cluster 4:
+  - Feds seize BreachForums platform, Telegram page
+  - Santander Data Breach Impacts Customers, Employees
+  - 900k Impacted by Data Breach at Mississippi Healthcare Provider
+  - Santander Customer Data Compromised Following Third-Party Breach
+  - Data Breaches in US Schools Exposed 37.6M Records
+  - FBI Seizes BreachForums Again, Urges Users to Report Criminal Activity
+  - SEC to require financial firms to have data breach incident plans
+  - Nissan Data Breach Impacts 53,000 Employees
+  - BreachForums Shut Down in Apparent Law Enforcement Operation
+  - 53,000 Employees' Social Security Numbers Exposed in Nissan Data Breach
+  - BreachForums Hacking Marketplace Taken Down Again
+  - Santander Falls Victim to Data Breach Involving Third-Party Provider
+  - Notice of a Data Breach
+  - FBI, DoJ Shut Down BreachForums, Launch Investigation
+  - BreachForums seized by law enforcement, admin Baphomet arrested
+Cluster 5:
+  - Intel Publishes 41 Security Advisories for Over 90 Vulnerabilities
+  - Backlogs at National Vulnerability Database prompt action from NIST and CISA
+  - UK Lags Europe on Exploited Vulnerability Remediation
+  - The Fall of the National Vulnerability Database
+Cluster 6:
+  - Vermont Legislature Passes One of the Strongest Data Privacy Measures in the Country
+  - Texas attorney general probes connected-car companies’ data privacy practices
+Cluster 7:
+  - Google Expands Synthetic Content Watermarking Tool to AI-Generated Text
+  - Google&amp;apos;s AI Watermarks Will Identify Deepfakes
+Cluster 8:
+  - D-Link Routers Vulnerable to Takeover Via Exploit for Zero-Day
+  - CISA Warns of Actively Exploited D-Link Router Vulnerabilities - Patch Now
+Cluster 9:
+  - 3 Tips for Becoming the Champion of Your Organization's AI Committee
+  - 3 Tips for Becoming the Champion of Your Organization&amp;apos;s AI Committee
+Cluster 10:
+  - DNS Tunneling Abuse Expands to Tracking &amp; Scanning Victims
+  - DNS Tunneling Abuse Expands to Tracking &amp;amp; Scanning Victims
+Cluster 11:
+  - There Is No Cyber Labor Shortage
+  - There Isn&amp;apos;t a Cyber Labor Shortage
+Cluster 12:
+  - IntelBroker Nabs Europol Info; Agency Investigating
+  - IntelBroker steals classified data from the Europol website
+Cluster 13:
+  - New threat trends emerge out of East Asia
+  - Asian Threat Actors Use New Techniques to Attack Familiar Targets
+Cluster 14:
+  - Equipped with AI tools, hackers make apps riskier than ever
+  - Google Launches AI-Powered Theft and Data Protection Features for Android Devices
+  - Android 15 Rolls Out Advanced Features to Protect Users from Scams and Malicious Apps
+  - Android 15 Brings Improved Fraud and Malware Protections
+Cluster 15:
+  - New Wi-Fi Vulnerability Enables Network Eavesdropping via Downgrade Attacks
+  - Flaw in Wi-Fi Standard Can Enable SSID Confusion Attacks
+Cluster 16:
+  - Researchers Uncover 11 Security Flaws in GE HealthCare Ultrasound Machines
+  - GE Ultrasound Gear Riddled With Bugs, Open to Ransomware &amp;amp; Data Theft
+Cluster 17:
+  - Alkira Raises $100 Million for Secure Network Infrastructure Platform
+  - Alkira Raises $100M in Series C Funding to Simplify, Secure and Scale Critical Network Infrastructure
+Cluster 18:
+  - Palo Alto Networks Announces Major Cybersecurity Partnership With IBM, Acquires QRadar SaaS Assets
+  - Palo Alto Networks and IBM to Jointly Provide AI-Powered Security Offerings
+
+-----------------------------------------------------------------------------------------------------------------------
+
+  test_integrated results:
+
+  Cluster 0:
+  - (Cyber) Risk = Probability of Occurrence x Damage
+  - Civil society under increasing threats from ‘malicious’ state cyber actors, US warns
+  - NCSC Expands Election Cybersecurity to Safeguard Candidates and Officials
+  - Current Market Forces Disincentivizing Cybersecurity, Says NCSC CTO
+  - CISA and Partners Unveil Cybersecurity Guide For Civil Society Groups
+  - Top 5 Most Dangerous Cyber Threats in 2024
+  - Australian federal budget outlines investment in cybersecurity
+  - Low-tech tactics still top the IT security risk chart
+  - SugarGh0st RAT Variant Used in Targeted AI Industry Attacks
+  - CISO Confidence in AI Security Grows as GenAI Adoption Rises
+  - Addressing the Cybersecurity Vendor Ecosystem Disconnect
+  - US AI Experts Targeted in SugarGh0st RAT Campaign
+  - Cyber resilience: A business imperative CISOs must get right
+  - US AI experts targeted in cyberespionage campaign using SugarGh0st RAT
+  - How you may be affected by the new proposed Critical Infrastructure Cyber Incident Reporting Rule
+Cluster 1:
+  - Ebury Botnet Malware Compromises 400,000 Linux Servers Over Past 14 Years
+  - 400,000 Linux Servers Hit by Ebury Botnet
+  - Ebury Botnet Operators Diversify with Financial and Crypto Theft
+Cluster 2:
+  - Microsoft Patches 61 Flaws, Including Two Actively Exploited Zero-Days
+  - VMware Patches Severe Security Flaws in Workstation and Fusion Products
+  - New Chrome Zero-Day Vulnerability CVE-2024-4761 Under Active Exploitation
+  - Black Basta Ransomware Strikes 500+ Entities Across North America, Europe, and Australia
+  - Microsoft Warns of Active Zero-Day Exploitation, Patches 60 Windows Vulnerabilities
+  - Microsoft Fixes Three Zero-Days in May Patch Tuesday
+  - Microsoft Windows DWM Zero-Day Poised for Mass Exploit
+  - Dangerous Google Chrome Zero-Day Allows Sandbox Escape
+  - FBI warns Black Basta ransomware impacted over 500 organizations worldwide
+  - Cybercriminals Exploiting Microsoft’s Quick Assist Feature in Ransomware Attacks
+  - Google Patches Yet Another Actively Exploited Chrome Zero-Day Vulnerability
+  - Third Chrome Zero-Day Patched by Google Within One Week
+  - Windows Quick Assist Exploited in Ransomware Attacks
+  - Windows Quick Assist Anchors Black Basta Ransomware Gambit
+  - Patch Now: Another Google Zero-Day Under Exploit in the Wild
+  - Microsoft fixes three zero-day vulnerabilities, two actively exploited
+Cluster 3:
+  - Feds seize BreachForums platform, Telegram page
+  - Santander Data Breach Impacts Customers, Employees
+  - 900k Impacted by Data Breach at Mississippi Healthcare Provider
+  - Santander Customer Data Compromised Following Third-Party Breach
+  - Data Breaches in US Schools Exposed 37.6M Records
+  - As the FBI Closes In, Scattered Spider Attacks Finance, Insurance Orgs
+  - FBI Seizes BreachForums Again, Urges Users to Report Criminal Activity
+  - SEC to require financial firms to have data breach incident plans
+  - Nissan Data Breach Impacts 53,000 Employees
+  - BreachForums Shut Down in Apparent Law Enforcement Operation
+  - 53,000 Employees' Social Security Numbers Exposed in Nissan Data Breach
+  - BreachForums Hacking Marketplace Taken Down Again
+  - Santander Falls Victim to Data Breach Involving Third-Party Provider
+  - Notice of a Data Breach
+  - FBI, DoJ Shut Down BreachForums, Launch Investigation
+  - BreachForums seized by law enforcement, admin Baphomet arrested
+Cluster 4:
+  - Google Expands Synthetic Content Watermarking Tool to AI-Generated Text
+  - Google&amp;apos;s AI Watermarks Will Identify Deepfakes
+Cluster 5:
+  - D-Link Routers Vulnerable to Takeover Via Exploit for Zero-Day
+  - CISA Warns of Actively Exploited D-Link Router Vulnerabilities - Patch Now
+Cluster 6:
+  - 3 Tips for Becoming the Champion of Your Organization's AI Committee
+  - 3 Tips for Becoming the Champion of Your Organization&amp;apos;s AI Committee
+Cluster 7:
+  - DNS Tunneling Abuse Expands to Tracking &amp; Scanning Victims
+  - DNS Tunneling Abuse Expands to Tracking &amp;amp; Scanning Victims
+Cluster 8:
+  - There Is No Cyber Labor Shortage
+  - There Isn&amp;apos;t a Cyber Labor Shortage
+Cluster 9:
+  - IntelBroker Nabs Europol Info; Agency Investigating
+  - IntelBroker steals classified data from the Europol website
+Cluster 10:
+  - Backlogs at National Vulnerability Database prompt action from NIST and CISA
+  - UK Lags Europe on Exploited Vulnerability Remediation
+  - The Fall of the National Vulnerability Database
+Cluster 11:
+  - New threat trends emerge out of East Asia
+  - Asian Threat Actors Use New Techniques to Attack Familiar Targets
+Cluster 12:
+  - Equipped with AI tools, hackers make apps riskier than ever
+  - Google Launches AI-Powered Theft and Data Protection Features for Android Devices
+  - Android 15 Rolls Out Advanced Features to Protect Users from Scams and Malicious Apps
+  - Android 15 Brings Improved Fraud and Malware Protections
+Cluster 13:
+  - New Wi-Fi Vulnerability Enables Network Eavesdropping via Downgrade Attacks
+  - Flaw in Wi-Fi Standard Can Enable SSID Confusion Attacks
+Cluster 14:
+  - Researchers Uncover 11 Security Flaws in GE HealthCare Ultrasound Machines
+  - GE Ultrasound Gear Riddled With Bugs, Open to Ransomware &amp;amp; Data Theft
+Cluster 15:
+  - FCC might require telecoms to report on securing internet's BGP technology
+  - FCC Reveals &amp;apos;Royal Tiger&amp;apos; Robocall Campaign
+  - FCC proposes BGP security measures
+Cluster 16:
+  - Alkira Raises $100 Million for Secure Network Infrastructure Platform
+  - Alkira Raises $100M in Series C Funding to Simplify, Secure and Scale Critical Network Infrastructure
+Cluster 17:
+  - Palo Alto Networks Announces Major Cybersecurity Partnership With IBM, Acquires QRadar SaaS Assets
+  - Palo Alto Networks and IBM to Jointly Provide AI-Powered Security Offerings
+
+
+---------------------------------------------------------------------------------------------------------------
+
+Reclustring2 before entity fix:
+
+Cluster 0-0:
+  - (Cyber) Risk = Probability of Occurrence x Damage
+
+Cluster 0-1:
+  - Civil society under increasing threats from ‘malicious’ state cyber actors, US warns
+
+Cluster 0-2:
+  - NCSC Expands Election Cybersecurity to Safeguard Candidates and Officials NCSC NCSC NCSC NCSC NCSC NCSC NCSC NCSC NCSC NCSC
+  - Current Market Forces Disincentivizing Cybersecurity, Says NCSC CTO NCSC NCSC NCSC NCSC NCSC NCSC NCSC NCSC NCSC NCSC
+  - CISA and Partners Unveil Cybersecurity Guide For Civil Society Groups CISA CISA CISA CISA CISA CISA CISA CISA CISA CISA
+
+Cluster 0-3:
+  - Top 5 Most Dangerous Cyber Threats in 2024
+
+Cluster 0-4:
+  - Australian federal budget outlines investment in cybersecurity
+
+Cluster 0-5:
+  - Low-tech tactics still top the IT security risk chart
+
+Cluster 0-6:
+  - SugarGh0st RAT Variant Used in Targeted AI Industry Attacks
+  - US AI Experts Targeted in SugarGh0st RAT Campaign
+
+Cluster 0-7:
+  - Addressing the Cybersecurity Vendor Ecosystem Disconnect
+
+Cluster 0-8:
+  - Cyber resilience: A business imperative CISOs must get right
+
+Cluster 0-9:
+  - US AI experts targeted in cyberespionage campaign using SugarGh0st RAT SugarGh0st RAT SugarGh0st RAT SugarGh0st RAT SugarGh0st RAT SugarGh0st RAT SugarGh0st RAT SugarGh0st RAT SugarGh0st RAT SugarGh0st RAT SugarGh0st RAT
+
+Cluster 0-10:
+  - How you may be affected by the new proposed Critical Infrastructure Cyber Incident Reporting Rule
+
+Cluster 1:
+  - Ebury Botnet Malware Compromises 400,000 Linux Servers Over Past 14 Years
+  - 400,000 Linux Servers Hit by Ebury Botnet
+  - Ebury Botnet Operators Diversify with Financial and Crypto Theft
+
+Cluster 2-0:
+  - Microsoft Patches 61 Flaws, Including Two Actively Exploited Zero-Days Microsoft Microsoft Microsoft Microsoft Microsoft Microsoft Microsoft Microsoft Microsoft Microsoft
+  - Microsoft Warns of Active Zero-Day Exploitation, Patches 60 Windows Vulnerabilities Microsoft Microsoft Microsoft Microsoft Microsoft Microsoft Microsoft Microsoft Microsoft Microsoft
+  - Microsoft Fixes Three Zero-Days in May Patch Tuesday Microsoft Microsoft Microsoft Microsoft Microsoft Microsoft Microsoft Microsoft Microsoft Microsoft
+  - Microsoft Windows DWM Zero-Day Poised for Mass Exploit Microsoft Windows Microsoft Windows Microsoft Windows Microsoft Windows Microsoft Windows Microsoft Windows Microsoft Windows Microsoft Windows Microsoft Windows Microsoft Windows      
+  - Microsoft fixes three zero-day vulnerabilities, two actively exploited Microsoft Microsoft Microsoft Microsoft Microsoft Microsoft Microsoft Microsoft Microsoft Microsoft
+
+Cluster 2-1:
+  - VMware Patches Severe Security Flaws in Workstation and Fusion Products
+
+Cluster 2-2:
+  - New Chrome Zero-Day Vulnerability CVE-2024-4761 Under Active Exploitation
+
+Cluster 2-3:
+  - Dangerous Google Chrome Zero-Day Allows Sandbox Escape Google Chrome Google Chrome Google Chrome Google Chrome Google Chrome Google Chrome Google Chrome Google Chrome Google Chrome Google Chrome
+  - Google Patches Yet Another Actively Exploited Chrome Zero-Day Vulnerability Google Google Google Google Google Google Google Google Google Google
+  - Third Chrome Zero-Day Patched by Google Within One Week Google Google Google Google Google Google Google Google Google Google
+  - Patch Now: Another Google Zero-Day Under Exploit in the Wild Google Google Google Google Google Google Google Google Google Google
+
+Cluster 3-0:
+  - Black Basta Ransomware Strikes 500+ Entities Across North America, Europe, and Australia
+
+Cluster 3-1:
+  - Singing River ransomware attack now thought to have affected over 895,000
+
+Cluster 3-2:
+  - FBI warns Black Basta ransomware impacted over 500 organizations worldwide FBI FBI FBI FBI FBI FBI FBI FBI FBI FBI
+
+Cluster 3-3:
+  - Cybercriminals Exploiting Microsoft’s Quick Assist Feature in Ransomware Attacks Microsoft Microsoft Microsoft Microsoft Microsoft Microsoft Microsoft Microsoft Microsoft Microsoft
+
+Cluster 3-4:
+  - Personal Information Stolen in City of Wichita Ransomware Attack
+
+Cluster 3-5:
+  - Windows Quick Assist Exploited in Ransomware Attacks Windows Windows Windows Windows Windows Windows Windows Windows Windows Windows
+  - Windows Quick Assist Anchors Black Basta Ransomware Gambit Windows Windows Windows Windows Windows Windows Windows Windows Windows Windows
+
+Cluster 4-0:
+  - Feds seize BreachForums platform, Telegram page BreachForums Telegram BreachForums Telegram BreachForums Telegram BreachForums Telegram BreachForums Telegram BreachForums Telegram BreachForums Telegram BreachForums Telegram BreachForums Telegram BreachForums Telegram
+
+Cluster 4-1:
+  - Santander Data Breach Impacts Customers, Employees Santander Santander Santander Santander Santander Santander Santander Santander Santander Santander
+  - Santander Customer Data Compromised Following Third-Party Breach Santander Santander Santander Santander Santander Santander Santander Santander Santander Santander
+
+Cluster 4-2:
+  - 900k Impacted by Data Breach at Mississippi Healthcare Provider
+
+Cluster 4-3:
+  - Data Breaches in US Schools Exposed 37.6M Records
+
+Cluster 4-4:
+  - FBI Seizes BreachForums Again, Urges Users to Report Criminal Activity FBI FBI FBI FBI FBI FBI FBI FBI FBI FBI
+  - FBI, DoJ Shut Down BreachForums, Launch Investigation FBI DoJ FBI DoJ FBI DoJ FBI DoJ FBI DoJ FBI DoJ FBI DoJ FBI DoJ FBI DoJ FBI DoJ
+
+Cluster 4-5:
+  - SEC to require financial firms to have data breach incident plans SEC SEC SEC SEC SEC SEC SEC SEC SEC SEC
+
+Cluster 4-6:
+  - Nissan Data Breach Impacts 53,000 Employees Nissan Nissan Nissan Nissan Nissan Nissan Nissan Nissan Nissan Nissan
+
+Cluster 4-7:
+  - BreachForums Shut Down in Apparent Law Enforcement Operation
+
+Cluster 4-8:
+  - 53,000 Employees' Social Security Numbers Exposed in Nissan Data Breach Social Security Nissan Social Security Nissan Social Security Nissan Social Security Nissan Social Security Nissan Social Security Nissan Social Security Nissan Social Security Nissan Social Security Nissan Social Security Nissan
+
+Cluster 4-9:
+  - BreachForums Hacking Marketplace Taken Down Again
+
+Cluster 4-10:
+  - Santander Falls Victim to Data Breach Involving Third-Party Provider
+
+Cluster 4-11:
+  - Notice of a Data Breach
+
+Cluster 4-12:
+  - BreachForums seized by law enforcement, admin Baphomet arrested
+
+Cluster 5:
+  - Intel Publishes 41 Security Advisories for Over 90 Vulnerabilities
+  - Backlogs at National Vulnerability Database prompt action from NIST and CISA
+  - UK Lags Europe on Exploited Vulnerability Remediation
+  - The Fall of the National Vulnerability Database
+
+Cluster 6:
+  - Vermont Legislature Passes One of the Strongest Data Privacy Measures in the Country
+  - Texas attorney general probes connected-car companies’ data privacy practices
+
+Cluster 7:
+  - Google Expands Synthetic Content Watermarking Tool to AI-Generated Text
+  - Google&amp;apos;s AI Watermarks Will Identify Deepfakes
+
+Cluster 8:
+  - D-Link Routers Vulnerable to Takeover Via Exploit for Zero-Day
+  - CISA Warns of Actively Exploited D-Link Router Vulnerabilities - Patch Now
+
+Cluster 9:
+  - 3 Tips for Becoming the Champion of Your Organization's AI Committee
+  - 3 Tips for Becoming the Champion of Your Organization&amp;apos;s AI Committee
+
+Cluster 10:
+  - DNS Tunneling Abuse Expands to Tracking &amp; Scanning Victims
+  - DNS Tunneling Abuse Expands to Tracking &amp;amp; Scanning Victims
+
+Cluster 11:
+  - There Is No Cyber Labor Shortage
+  - There Isn&amp;apos;t a Cyber Labor Shortage
+
+Cluster 12:
+  - IntelBroker Nabs Europol Info; Agency Investigating
+  - IntelBroker steals classified data from the Europol website
+
+Cluster 13:
+  - New threat trends emerge out of East Asia
+  - Asian Threat Actors Use New Techniques to Attack Familiar Targets
+
+Cluster 14:
+  - Equipped with AI tools, hackers make apps riskier than ever
+  - Google Launches AI-Powered Theft and Data Protection Features for Android Devices
+  - Android 15 Rolls Out Advanced Features to Protect Users from Scams and Malicious Apps
+  - Android 15 Brings Improved Fraud and Malware Protections
+
+Cluster 15:
+  - New Wi-Fi Vulnerability Enables Network Eavesdropping via Downgrade Attacks
+  - Flaw in Wi-Fi Standard Can Enable SSID Confusion Attacks
+
+Cluster 16:
+  - Researchers Uncover 11 Security Flaws in GE HealthCare Ultrasound Machines
+  - GE Ultrasound Gear Riddled With Bugs, Open to Ransomware &amp;amp; Data Theft
+
+Cluster 17:
+  - FCC might require telecoms to report on securing internet's BGP technology
+  - FCC proposes BGP security measures
+
+Cluster 18:
+  - Alkira Raises $100 Million for Secure Network Infrastructure Platform
+  - Alkira Raises $100M in Series C Funding to Simplify, Secure and Scale Critical Network Infrastructure
+
+Cluster 19:
+  - Palo Alto Networks Announces Major Cybersecurity Partnership With IBM, Acquires QRadar SaaS Assets
+  - Palo Alto Networks and IBM to Jointly Provide AI-Powered Security Offerings
